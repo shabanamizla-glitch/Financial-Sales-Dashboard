@@ -53,7 +53,18 @@ This project focuses on analyzing financial sales data using Microsoft Power BI.
 - Understand product-wise performance.
 - Identify monthly sales trends.
 - Analyze the impact of discounts on sales.
+8. Key Insights and Analysis
 
-8. Conclusion
+- Sales Performance: The Sales by Country chart helps compare sales performance across different countries.
+- Product Performance: The Profit by Product chart helps identify which products contribute to business profitability.
+- Segment Analysis: The Sales by Segment chart shows how different business segments contribute to total sales.
+- Monthly Trends: The Monthly Sales Trend chart helps understand changes in sales over different months.
+- Discount Analysis: The Sales by Discount Band chart helps analyze sales distribution across discount categories.
+- Sales and Profit Comparison: Comparing Sales vs Profit by Country helps evaluate profitability across countries.
+- Units Sold: The Units Sold by Product chart helps compare product demand.
+
+These visualizations provide useful insights into sales performance, profitability, product demand, and discount patterns, supporting better business decision-making.
+
+9. Conclusion
 
 This Power BI dashboard provides an interactive and easy-to-understand view of financial sales data. It helps users explore business performance and make data-driven decisions.
